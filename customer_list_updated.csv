@@ -1,4 +1,4 @@
-﻿cust_id|date|time|name|email|phone|sms-opt-out 
+cust_id|date|time|name|email|phone|sms-opt-out
 1|2023-03-15|08:45:12|Rachel|rachel@centralperk.coffee|212-555-1001|N
 2|2023-05-22|12:30:45|R&! Geller|rossg@centralperk.coffee|212-555-1002|N
 3|2023-07-09|18:15:27|Monica Geller|chefmonica@centralperk.coffee|212-555-1003|N
@@ -299,7 +299,7 @@
 298|2023-05-04|17:00:55|Odo|odo@ds9.starfleet|247-555-2303|N
 299|2023-06-17|20:25:10|Jadzia Dax|dax@ds9.starfleet|247-555-2304|N
 300|2023-07-30|08:50:25|Julian Bashir|bashir@ds9.starfleet|247-555-2305|Y
-301|2023-09-12|12:15:40|Miles O[']Brien|obrien@ds9.starfleet
+301|2023-09-12|12:15:40|Miles O[']Brien|obrien@ds9.starfleet||
 302|2023-02-14|08:15:25|Buffy Summers|buffy@sunnydale.high|805-555-1101|N
 303|2023-04-28|12:40:50|Willow R.^|willow@sunnydale.high|805-555-1102|N
 304|2023-07-05|17:05:15|Xander Harris|xander@sunnydale.high|805-555-1103|N
@@ -520,3 +520,7 @@
 519|2023-03-05|09:20:00|Buford|buford@danvillekids.com|555-555-3208|N
 520|2023-05-18|13:45:15|Vanessa D.^|vanessa@danvillekids.com|555-555-3209|N
 521|2023-08-01|18:10:30|Linda Flynn-Fletcher|linda@danvillekids.com|555-555-3210|N
+522||04:28:00|Anthony|aperez9530@gmail.com|773-226-1000|Y
+523||18:20:17|Anthony|cubsperez95@yahoo.com|773-226-1000|Y
+524|2024-11-14|18:24:41|Anthony|cubsperez95@yahoo.com|773-226-1000|Y
+525|2024-11-14|18:25:32|Anthony|cubsperez95@yahoo.com|773-226-1000|Y

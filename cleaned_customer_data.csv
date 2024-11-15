@@ -1,10 +1,10 @@
 cust_id,date,time,name,email,phone,sms_opt_out
 1,2023-03-15,08:45:12,Rachel,rachel@centralperk.coffee,212-555-1001,N
-2,2023-05-22,12:30:45,R. Geller,rossg@centralperk.coffee,212-555-1002,N
+2,2023-05-22,12:30:45,R Geller,rossg@centralperk.coffee,212-555-1002,N
 3,2023-07-09,18:15:27,Monica Geller,chefmonica@centralperk.coffee,212-555-1003,N
 4,2023-09-01,21:05:33,Chandler Bing,chandlerb@centralperk.coffee,212-555-1004,Y
 5,2023-11-18,14:22:10,Joey,howyoudoing@centralperk.coffee,212-555-1005,N
-6,2024-01-05,10:55:49,P. Buffay,smellycat@centralperk.coffee,212-555-1006,N
+6,2024-01-05,10:55:49,P Buffay,smellycat@centralperk.coffee,212-555-1006,N
 7,2024-02-14,16:40:05,Gunther,gunther@centralperk.coffee,212-555-1007,N
 8,2023-04-20,09:15:30,Janice,ohmygod@centralperk.coffee,212-555-1008,N
 9,2023-06-30,13:50:55,Mike H.,mike@centralperk.coffee,212-555-1009,N
@@ -13,7 +13,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 12,2023-06-25,13:45:50,Jesse Pinkman,jesse@lospolloshermanos.biz,505-555-2002,N
 13,2023-08-03,17:30:15,Skyler W.,skyler@lospolloshermanos.biz,505-555-2003,Y
 14,2023-10-19,20:05:40,Saul Goodman,bettercallsaul@lospolloshermanos.biz,505-555-2004,N
-15,2024-02-28,11:15:25,H. Schrader,hank@lospolloshermanos.biz,505-555-2005,N
+15,2024-02-28,11:15:25,H Schrader,hank@lospolloshermanos.biz,505-555-2005,N
 16,2024-03-10,15:50:35,Gus Fring,gus@lospolloshermanos.biz,505-555-2006,N
 17,2024-04-22,19:25:50,Mike E.,mike@lospolloshermanos.biz,505-555-2007,N
 18,2023-05-14,10:30:45,Marie S.,marie@lospolloshermanos.biz,505-555-2008,N
@@ -25,7 +25,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 24,2023-06-30,18:30:10,Arya Stark,noface@westeros.kingdom,123-555-3004,N
 25,2023-08-15,22:55:25,Sansa S.,queenofthenorth@westeros.kingdom,123-555-3005,N
 26,2023-10-28,07:20:40,Cersei L.,queenregent@westeros.kingdom,123-555-3006,N
-27,2023-12-12,11:45:55,J. Lannister,kingslayer@westeros.kingdom,123-555-3007,N
+27,2023-12-12,11:45:55,J Lannister,kingslayer@westeros.kingdom,123-555-3007,N
 28,2023-03-03,08:10:15,Bran Stark,threeeyedraven@westeros.kingdom,123-555-3008,N
 29,2023-05-17,12:35:30,Samwell T.,maester@westeros.kingdom,123-555-3009,N
 30,2023-07-29,16:00:45,Brienne,brienne@westeros.kingdom,123-555-3010,N
@@ -35,7 +35,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 34,2023-09-15,22:40:15,Lisa S.,saxgirl@springfield.power,636-555-4004,Y
 35,2023-11-08,07:05:30,Maggie,maggie@springfield.power,636-555-4005,N
 36,2024-01-25,11:30:45,Ned Flanders,ned@springfield.power,636-555-4006,N
-37,2024-03-18,15:55:00,Mr. Burns,monty@springfield.power,636-555-4007,N
+37,2024-03-18,15:55:00,Mr Burns,monty@springfield.power,636-555-4007,N
 38,2023-04-22,10:20:15,Krusty,krusty@springfield.power,636-555-4008,N
 39,2023-06-14,14:45:30,Chief Wiggum,wiggum@springfield.power,636-555-4009,N
 40,2023-08-27,19:10:45,Milhouse,milhouse@springfield.power,636-555-4010,N
@@ -115,7 +115,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 114,2024-01-21,06:45:15,Regular Sized Rudy,rudy@bobsburgers.rest,201-555-9409,N
 115,2024-03-05,11:10:30,Gayle,gayle@bobsburgers.rest,201-555-9410,N
 116,2023-01-10,08:00:00,Fred Rogers,misterrogers@neighborhood.org,412-555-9501,N
-117,2023-02-22,12:25:15,Mr. Mcfeely,speedydelivery@neighborhood.org,412-555-9502,N
+117,2023-02-22,12:25:15,Mr Mcfeely,speedydelivery@neighborhood.org,412-555-9502,N
 118,2023-04-06,15:50:30,Lady Aberlin,ladyaberlin@neighborhood.org,412-555-9503,N
 119,2023-05-19,19:15:45,King Friday,kingfriday@neighborhood.org,412-555-9504,N
 120,2023-07-02,07:40:00,Daniel Tiger,daniel@neighborhood.org,412-555-9505,N
@@ -154,15 +154,15 @@ cust_id,date,time,name,email,phone,sms_opt_out
 153,2023-11-08,16:50:55,Chachi A.,chachi@arnoldsdrivein.diner,414-555-9808,N
 154,2023-12-21,20:15:10,Al Delvecchio,al@arnoldsdrivein.diner,414-555-9809,N
 155,2024-02-03,08:40:25,Jenny Piccalo,jenny@arnoldsdrivein.diner,414-555-9810,N
-156,2023-03-12,08:10:15,Lt. Columbo,columbo@lapd.gov,213-555-9901,N
+156,2023-03-12,08:10:15,Lt Columbo,columbo@lapd.gov,213-555-9901,N
 157,2023-05-25,12:35:30,Sergeant Wilson,wilson@lapd.gov,213-555-9902,N
 158,2023-08-08,17:00:45,Dog,dog@lapd.gov,213-555-9903,N
-159,2023-10-21,21:25:00,Mrs. Columbo,mrscolumbo@lapd.gov,213-555-9904,N
+159,2023-10-21,21:25:00,Mrs Columbo,mrscolumbo@lapd.gov,213-555-9904,N
 160,2023-12-04,07:50:15,Captain Sampson,sampson@lapd.gov,213-555-9905,Y
 161,2024-02-16,11:15:30,Lieutenant Duffy,duffy@lapd.gov,213-555-9906,N
 162,2023-01-29,15:40:45,Sergeant Kramer,kramer@lapd.gov,213-555-9907,N
 163,2023-04-13,19:05:00,Commissioner Halperin,halperin@lapd.gov,213-555-9908,N
-164,2023-06-26,08:30:15,Dr. Ray Flemming,flemming@lapd.gov,213-555-9909,N
+164,2023-06-26,08:30:15,Dr Ray Flemming,flemming@lapd.gov,213-555-9909,N
 165,2023-09-09,12:55:30,Ken Franklin,franklin@lapd.gov,213-555-9910,N
 166,2023-02-18,09:20:25,Earnest Marks,earn@paperboi.atl,404-555-1001,N
 167,2023-03-31,13:45:40,Alfred Miles,paperboi@paperboi.atl,404-555-1002,N
@@ -252,11 +252,11 @@ cust_id,date,time,name,email,phone,sms_opt_out
 251,2023-08-27,12:00:35,Janet,janet@thegoodplace.afterlife,480-555-1806,N
 252,2023-10-10,15:25:50,Shawn,shawn@thegoodplace.afterlife,480-555-1807,N
 253,2023-11-23,18:50:05,Vicky,vicky@thegoodplace.afterlife,480-555-1808,N
-254,2024-01-05,22:15:20,Mindy St. Claire,mindy@thegoodplace.afterlife,480-555-1809,N
+254,2024-01-05,22:15:20,Mindy St Claire,mindy@thegoodplace.afterlife,480-555-1809,N
 255,2024-02-18,07:40:35,Bad Janet,badjanet@thegoodplace.afterlife,480-555-1810,N
 256,2023-02-10,10:05:25,Bojack Horseman,bojack@hollywoo.net,323-555-1901,N
 257,2023-03-23,14:30:40,Diane Nguyen,diane@hollywoo.net,323-555-1902,N
-258,2023-05-06,17:55:55,Mr. Peanutbutter,mrpb@hollywoo.net,323-555-1903,N
+258,2023-05-06,17:55:55,Mr Peanutbutter,mrpb@hollywoo.net,323-555-1903,N
 259,2023-06-19,21:20:10,Todd Chavez,todd@hollywoo.net,323-555-1904,N
 260,2023-08-02,08:45:25,Princess Carolyn,pc@hollywoo.net,323-555-1905,Y
 261,2023-09-15,12:10:40,Sarah Lynn,sarah@hollywoo.net,323-555-1906,N
@@ -299,7 +299,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 298,2023-05-04,17:00:55,Odo,odo@ds9.starfleet,247-555-2303,N
 299,2023-06-17,20:25:10,Jadzia Dax,dax@ds9.starfleet,247-555-2304,N
 300,2023-07-30,08:50:25,Julian Bashir,bashir@ds9.starfleet,247-555-2305,Y
-301,2023-09-12,12:15:40,Miles O'Brien,obrien@ds9.starfleet,,N
+301,2023-09-12,12:15:40,Miles O'Brien,obrien@ds9.starfleet,None,None
 302,2023-02-14,08:15:25,Buffy Summers,buffy@sunnydale.high,805-555-1101,N
 303,2023-04-28,12:40:50,Willow R.,willow@sunnydale.high,805-555-1102,N
 304,2023-07-05,17:05:15,Xander Harris,xander@sunnydale.high,805-555-1103,N
@@ -373,7 +373,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 372,2023-01-12,08:20:15,Josiah Bartlet,president@westwing.gov,202-555-1801,N
 373,2023-03-25,12:45:40,Leo Mcgarry,leo@westwing.gov,202-555-1802,N
 374,2023-06-08,17:10:05,Josh Lyman,josh@westwing.gov,202-555-1803,N
-375,2023-08-21,21:35:30,C.J. Cregg,cj@westwing.gov,202-555-1804,Y
+375,2023-08-21,21:35:30,C.J Cregg,cj@westwing.gov,202-555-1804,Y
 376,2023-11-03,07:00:55,Toby Ziegler,toby@westwing.gov,202-555-1805,N
 377,2024-01-16,11:25:20,Sam Seaborn,sam@westwing.gov,202-555-1806,N
 378,2024-04-02,15:50:45,Donna Moss,donna@westwing.gov,202-555-1807,N
@@ -398,7 +398,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 397,2024-01-21,11:15:25,Miles Webber,miles@goldengirls.house,305-555-2006,N
 398,2024-04-07,15:40:50,Big Daddy,bigdaddy@goldengirls.house,305-555-2007,N
 399,2024-06-20,20:05:15,Harry Weston,harry@goldengirls.house,305-555-2008,N
-400,2023-02-11,09:30:40,K. Mcclanahan,katherine@goldengirls.house,305-555-2009,N
+400,2023-02-11,09:30:40,K Mcclanahan,katherine@goldengirls.house,305-555-2009,N
 401,2023-04-26,13:55:05,Angela Petrillo,angela@goldengirls.house,305-555-2010,N
 402,2023-01-12,08:15:25,Logan Roy,logan@waystarroyco.com,212-555-2101,N
 403,2023-03-25,12:40:50,Kendall Roy,kendall@waystarroyco.com,212-555-2102,N
@@ -444,7 +444,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 443,2023-04-23,12:50:40,Miranda Hobbes,miranda@manhattan.nyc,212-555-2502,N
 444,2023-07-06,17:15:05,Charlotte York,charlotte@manhattan.nyc,212-555-2503,N
 445,2023-09-19,21:40:30,Samantha Jones,samantha@manhattan.nyc,212-555-2504,Y
-446,2023-12-02,07:05:55,Mr. Big,mrbig@manhattan.nyc,212-555-2505,N
+446,2023-12-02,07:05:55,Mr Big,mrbig@manhattan.nyc,212-555-2505,N
 447,2024-02-15,11:30:20,Stanford Blatch,stanford@manhattan.nyc,212-555-2506,N
 448,2024-05-01,15:55:45,Steve Brady,steve@manhattan.nyc,212-555-2507,N
 449,2023-03-05,09:20:10,Harry Goldenblatt,harry@manhattan.nyc,212-555-2508,N
@@ -477,7 +477,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 476,2023-11-10,07:00:10,Silvio Dante,silvio@northjersey.net,201-555-2805,N
 477,2024-01-23,11:25:35,Meadow Soprano,meadow@northjersey.net,201-555-2806,N
 478,2024-04-08,15:50:00,Aj Soprano,aj@northjersey.net,201-555-2807,N
-479,2024-06-21,20:15:25,Dr. Melfi,melfi@northjersey.net,201-555-2808,N
+479,2024-06-21,20:15:25,Dr Melfi,melfi@northjersey.net,201-555-2808,N
 480,2023-02-14,09:40:50,Junior Soprano,junior@northjersey.net,201-555-2809,N
 481,2023-05-29,14:05:15,Adriana La Cerva,adriana@northjersey.net,201-555-2810,N
 482,2023-01-10,08:15:20,Don Draper,don@sterlingcooper.com,212-555-2901,N
@@ -495,7 +495,7 @@ cust_id,date,time,name,email,phone,sms_opt_out
 494,2023-06-10,16:20:55,Ethel Mertz,ethel@ricardoproductions.tv,212-555-3003,N
 495,2023-08-23,20:45:10,Fred Mertz,fred@ricardoproductions.tv,212-555-3004,Y
 496,2023-11-05,06:10:25,Little Ricky,littlericky@ricardoproductions.tv,212-555-3005,N
-497,2024-01-18,10:35:40,Mrs. Trumbull,trumbull@ricardoproductions.tv,212-555-3006,N
+497,2024-01-18,10:35:40,Mrs Trumbull,trumbull@ricardoproductions.tv,212-555-3006,N
 498,2024-04-04,14:59:55,Marion Strong,marion@ricardoproductions.tv,212-555-3007,N
 499,2024-06-17,19:25:10,Caroline Appleby,caroline@ricardoproductions.tv,212-555-3008,N
 500,2023-02-08,08:50:25,Jerry,jerry@ricardoproductions.tv,212-555-3009,N
@@ -503,20 +503,24 @@ cust_id,date,time,name,email,phone,sms_opt_out
 502,2023-01-12,08:15:30,Spongebob Squarepants,spongebob@bikinibottom.net,555-555-3101,N
 503,2023-03-25,12:40:45,Patrick Star,patrick@bikinibottom.net,555-555-3102,N
 504,2023-06-08,17:05:00,Squidward Tentacles,squidward@bikinibottom.net,555-555-3103,N
-505,2023-08-21,21:29:15,Mr. Krabs,krabs@bikinibottom.net,555-555-3104,Y
+505,2023-08-21,21:29:15,Mr Krabs,krabs@bikinibottom.net,555-555-3104,Y
 506,2023-11-03,06:54:30,Sandy Cheeks,sandy@bikinibottom.net,555-555-3105,N
 507,2024-01-16,11:19:45,Plankton,plankton@bikinibottom.net,555-555-3106,N
 508,2024-04-02,15:44:00,Gary,meow@bikinibottom.net,555-555-3107,N
-509,2024-06-15,20:08:15,Mrs. Puff,puff@bikinibottom.net,555-555-3108,N
+509,2024-06-15,20:08:15,Mrs Puff,puff@bikinibottom.net,555-555-3108,N
 510,2023-02-05,09:33:30,Karen,karen@bikinibottom.net,555-555-3109,N
 511,2023-04-20,13:57:45,Pearl Krabs,pearl@bikinibottom.net,555-555-3110,N
 512,2023-02-10,08:25:15,Phineas Flynn,phineas@danvillekids.com,555-555-3201,N
 513,2023-04-23,12:50:30,Ferb Fletcher,ferb@danvillekids.com,555-555-3202,N
 514,2023-07-06,17:15:45,Candace Flynn,candace@danvillekids.com,555-555-3203,N
 515,2023-09-19,21:40:00,Isabella G.,isabella@danvillekids.com,555-555-3204,Y
-516,2023-12-02,07:05:15,Dr. Doofenshmirtz,doof@danvillekids.com,555-555-3205,N
+516,2023-12-02,07:05:15,Dr Doofenshmirtz,doof@danvillekids.com,555-555-3205,N
 517,2024-02-15,11:30:30,Perry The Platypus,agentp@danvillekids.com,555-555-3206,N
 518,2024-05-01,15:55:45,Baljeet,baljeet@danvillekids.com,555-555-3207,N
 519,2023-03-05,09:20:00,Buford,buford@danvillekids.com,555-555-3208,N
 520,2023-05-18,13:45:15,Vanessa D.,vanessa@danvillekids.com,555-555-3209,N
 521,2023-08-01,18:10:30,Linda Flynn-Fletcher,linda@danvillekids.com,555-555-3210,N
+522,None,04:28:00,Anthony,aperez9530@gmail.com,773-226-1000,Y
+523,None,18:20:17,Anthony,cubsperez95@yahoo.com,773-226-1000,Y
+524,2024-11-14,18:24:41,Anthony,cubsperez95@yahoo.com,773-226-1000,Y
+525,2024-11-14,18:25:32,Anthony,cubsperez95@yahoo.com,773-226-1000,Y
