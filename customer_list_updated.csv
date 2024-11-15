@@ -1,4 +1,4 @@
-cust_id|date|time|name|email|phone|sms-opt-out
+cust_id|date|time|name|email|phone|sms_opt_out
 1|2023-03-15|08:45:12|Rachel|rachel@centralperk.coffee|212-555-1001|N
 2|2023-05-22|12:30:45|R&! Geller|rossg@centralperk.coffee|212-555-1002|N
 3|2023-07-09|18:15:27|Monica Geller|chefmonica@centralperk.coffee|212-555-1003|N
@@ -524,3 +524,8 @@ cust_id|date|time|name|email|phone|sms-opt-out
 523||18:20:17|Anthony|cubsperez95@yahoo.com|773-226-1000|Y
 524|2024-11-14|18:24:41|Anthony|cubsperez95@yahoo.com|773-226-1000|Y
 525|2024-11-14|18:25:32|Anthony|cubsperez95@yahoo.com|773-226-1000|Y
+526|2024-11-14|19:08:14|Anthony|cubsperez95@yahoo.com|773-226-1000|Y
+527|2024-11-14|19:11:26|Anthony|cubsperez95@yahoo.com|773-226-1000|Y
+528|2024-11-14|19:12:14|Anthony|cubsperez95@yahoo.com|773-226-1000|Y
+529|2024-11-14|20:47:31|Anthony|cubsperez95@yahoo.com|773-226-1000|Y
+530|2024-11-14|23:16:59|Anthony|example@yahoo.com|7732261000|Y
